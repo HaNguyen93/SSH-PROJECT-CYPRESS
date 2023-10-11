@@ -1,0 +1,25 @@
+{
+  "name": "ssh-project-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaNguyen93/SSH-PROJECT-CYPRESS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaNguyen93/SSH-PROJECT-CYPRESS/issues"
+  },
+  "homepage": "https://github.com/HaNguyen93/SSH-PROJECT-CYPRESS#readme",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.6.1"
+  }
+}
